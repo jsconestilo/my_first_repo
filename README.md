@@ -57,5 +57,12 @@ ___
 
 ### Enlaces
 Se crean escribiendo el texto entre [] y el link entre ()
-[Este enlace manda a google](www.google.com)
+[Este enlace manda a google](http://www.google.com)
 
+### Imágenes
+Lo mismo que los enlaces, pero se antepone el !
+![Texto alternativo](http://lorempixel.com/400/200/)
+
+### Enlaces sin enmascarar
+Es decir, no tienen un texto alternativo, muestra la url completa. para ello es necesario encerrar la url entre <>
+<http://youtube.com>
