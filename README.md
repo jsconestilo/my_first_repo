@@ -13,15 +13,15 @@ En formato Markdown escribirlos no es tan distinto a escribir en un texto plano,
 ## Itálicas y Negritas
 Hay partes en las que necesitaremos hacer énfasis en ciertas palabras, lo común es que utilicemos itálicas y negritas para resaltarlas, en Markdown debemos encerrar el texto con * para itálicas, ** para negritas, **_ para ambas
 
-**Esto es una negrita**
-*Esto es una cursiva*
-**_Esto es una negrita cursiva_**
++ **Esto es una negrita**
++ *Esto es una cursiva*
++ **_Esto es una negrita cursiva_**
 
 ## Citas
 Se utilizan para mostrar referencias a otros autores, se emplea el símbolo > para iniciar una cita
 
 > ### Mensaje del autor
-hola gracias por utilizar mi proyecto.
+> hola gracias por utilizar mi proyecto.
 
 ## Listas
 Podemos utilizar listas ordenadas (anteponiendo el número) y listas sin orden (anteponiendo un - ):
@@ -42,3 +42,20 @@ Delimitar por 3 ~ virguilillas
 ~~~
 Esto es un bloque de información
 ~~~ 
+
+## Código
+Es necesario tabular el contenido y en automático lo reconocerá como código, o delimintarlo con ``
+
+    var name = 'Escuela de JavaScript';
+    console.log(name);
+
+## Lineas Horizontales
+Es como los hr en HTML, para ello es necesario colocar 3 de los siguientes elementos en una linea en blanco
+***
+---
+___
+
+### Enlaces
+Se crean escribiendo el texto entre [] y el link entre ()
+[Este enlace manda a google](www.google.com)
+
