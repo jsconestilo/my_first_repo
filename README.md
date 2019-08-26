@@ -1,2 +1,3 @@
 # my_first_repo
 Este es mi primer repositorio
+Instrucciones para utilizar el proyecto...
