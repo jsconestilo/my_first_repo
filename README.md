@@ -83,9 +83,16 @@ Este ~~es un texto tachado~~ de la documentación
 ### Listas de definición
 
 HTML
-    : es un lenguaje informático de marcado de contenido
-    : actualmente se encuentra en la versión 5
-    : incluye muchas APIs para el trabajo con dispositivos móviles
+ : es un lenguaje informático de marcado de contenido
+ : actualmente se encuentra en la versión 5
+ : incluye muchas APIs para el trabajo con dispositivos móviles
 
 CSS
-    : es el lenguaje informático para la presentación de contenidos escritos principalmente en lenguaje HTML
+ : es el lenguaje informático para la presentación de contenidos escritos principalmente en lenguaje HTML
+
+### Abreviaturas
+
+Este es un contenido que habla de HTML y CSS en el navegador
+
+* [HTML]: html es genial
+* [CSS] : css es la onda
