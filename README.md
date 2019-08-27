@@ -44,7 +44,7 @@ Esto es un bloque de información
 ~~~ 
 
 ## Código
-Es necesario tabular el contenido y en automático lo reconocerá como código, o delimintarlo con ``
+Es necesario tabular el contenido y en automático lo reconocerá como código, o delimintarlo con ``` para resaltarlo en sintaxis (añadiendo el nombre del lenguaje)
 ``` javascript
     var name = 'Escuela de JavaScript';
     console.log(name);
@@ -76,3 +76,6 @@ Código | Nombre | Apellidos | Calificación | Colegiatura
 33512 | Nicanor | Huertas Valeriano | 8.2 | $1,000.00
 22412 | Miguel | Villada Cejudo | 9.7 | $655.90
 
+### Texto tachado
+Delimitar el texto con dos virguirillas
+Este ~~es un texto tachado~~ de la documentación
