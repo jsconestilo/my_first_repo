@@ -102,3 +102,10 @@ Este es un contenido que habla de HTML y CSS en el navegador
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+### Código de PHP
+```php
+$nombre = "Alejandro González";
+$edad = 34
+echo "Mi nombre es $nombre y tengo $edad años";
+```
