@@ -45,9 +45,11 @@ Esto es un bloque de información
 
 ## Código
 Es necesario tabular el contenido y en automático lo reconocerá como código, o delimintarlo con ``
-
-    var name = 'Escuela de JavaScript';
-    console.log(name);
+    :::js
+    <script>
+        var name = 'Escuela de JavaScript';
+        console.log(name);
+    </script>
 
 ## Lineas Horizontales
 Es como los hr en HTML, para ello es necesario colocar 3 de los siguientes elementos en una linea en blanco
@@ -68,10 +70,10 @@ Es decir, no tienen un texto alternativo, muestra la url completa. para ello es 
 <http://youtube.com>
 
 ### Tablas
-Código | Nombre | Apellidos | Calificación
--- | -- | -- | --
-00400 | Alejandro | Reyes Prieto | 9.8
-54722 | Mariana | Fuentes Medina | 10.0
-33512 | Nicanor | Huertas Valeriano | 8.2
-22412 | Miguel | Villada Cejudo | 9.7
+Código | Nombre | Apellidos | Calificación | Colegiatura
+-- | -- | -- | :--: | --:
+00400 | Alejandro | Reyes Prieto | 9.8 | $1,000.00
+54722 | Mariana | Fuentes Medina | 10.0 | $ 950.00
+33512 | Nicanor | Huertas Valeriano | 8.2 | $1,000.00
+22412 | Miguel | Villada Cejudo | 9.7 | $655.90
 
