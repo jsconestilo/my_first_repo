@@ -79,3 +79,13 @@ Código | Nombre | Apellidos | Calificación | Colegiatura
 ### Texto tachado
 Delimitar el texto con dos virguirillas
 Este ~~es un texto tachado~~ de la documentación
+
+### Listas de definición
+
+HTML
+ : es un lenguaje informático de marcado de contenido
+ : actualmente se encuentra en la versión 5
+ : incluye muchas APIs para el trabajo con dispositivos móviles
+
+CSS
+ : es el lenguaje informático para la presentación de contenidos escritos principalmente en lenguaje HTML
