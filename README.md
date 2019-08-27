@@ -95,4 +95,4 @@ CSS
 Este es un contenido que habla de HTML y CSS en el navegador
 
 *[HTML]: html es genial
-*[CSS] : css es la onda
+*[CSS]: css es la onda
