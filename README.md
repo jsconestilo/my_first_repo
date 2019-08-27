@@ -66,3 +66,12 @@ Lo mismo que los enlaces, pero se antepone el !
 ### Enlaces sin enmascarar
 Es decir, no tienen un texto alternativo, muestra la url completa. para ello es necesario encerrar la url entre <>
 <http://youtube.com>
+
+### Tablas
+Código | Nombre | Apellidos | Calificación
+-- | -- | -- | --
+00400 | Alejandro | Reyes Prieto | 9.8
+54722 | Mariana | Fuentes Medina | 10.0
+33512 | Nicanor | Huertas Valeriano | 8.2
+22412 | Miguel | Villada Cejudo | 9.7
+
