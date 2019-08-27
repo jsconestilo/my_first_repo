@@ -96,3 +96,9 @@ Este es un contenido que habla de HTML y CSS en el navegador
 
 *[HTML]: html es genial
 *[CSS]: css es la onda
+
+### Lista de comprobación
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
