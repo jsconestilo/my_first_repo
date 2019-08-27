@@ -45,7 +45,8 @@ Esto es un bloque de información
 
 ## Código
 Es necesario tabular el contenido y en automático lo reconocerá como código, o delimintarlo con ``
-:::js
+
+    javascript
     var name = 'Escuela de JavaScript';
     console.log(name);
 
