@@ -45,10 +45,10 @@ Esto es un bloque de información
 
 ## Código
 Es necesario tabular el contenido y en automático lo reconocerá como código, o delimintarlo con ``
-
-    javascript
+``` javascript
     var name = 'Escuela de JavaScript';
     console.log(name);
+```
 
 ## Lineas Horizontales
 Es como los hr en HTML, para ello es necesario colocar 3 de los siguientes elementos en una linea en blanco
